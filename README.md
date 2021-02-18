@@ -4,4 +4,4 @@ This script asks you to input your postcode area (the first part of your postcod
 
 I've added a requirements.txt to enable you to run this locally. 
 
-![alt text](https://github.com/rcampb60/carbon_api_call/blob/main/Capture.jpg?raw=true)
+![alt text](https://github.com/rcampb60/carbon_api_call/blob/main/Capture.JPG?raw=true)
